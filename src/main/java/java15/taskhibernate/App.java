@@ -27,14 +27,7 @@ public class App {
 //userProfile.setUserDetails(userDetails);
 //userProfileService.createUserProfile(userProfile);
 //
-//        Person person = new Person("Adi",22,"a@gmail.com");
-//        SocialMedia socialMedia = new SocialMedia("Yahoo");
-//        SocialMedia socialMedia2 = new SocialMedia("Thread");
-//        socialMedia.setPerson(person);
-//        socialMedia2.setPerson(person);
-//        person.setSocialMedia(List.of(socialMedia, socialMedia2));
-//        personService.savePerson(person);
-                // Пример поиска пользователя по email
+//      
 //        UserProfile foundProfile = userProfileService.findUserByEmail("user@example.com");
 //        System.out.println(foundProfile);
 
